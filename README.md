@@ -7,9 +7,9 @@ Electrical and Electronics Engineering Undergrad at College of Engineering Triva
 <table align="center">
   <tr>
     <td>
-<href="https://github-readme-stats.vercel.app/api?username=harishnkr&show_icons=true&theme=calm&layout=compact"> </td>
+<a href="https://github-readme-stats.vercel.app/api?username=harishnkr&show_icons=true&theme=calm&layout=compact"></a></td>
     <td>
-<href="https://github-readme-stats.vercel.app/api/top-langs/?username=harishnkr&layout=compact&theme=calm&hide=roff&langs_count=10"> </td>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=harishnkr&layout=compact&theme=calm&hide=roff&langs_count=10"></a></td>
   </tr>
   </table>
 
