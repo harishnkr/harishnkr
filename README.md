@@ -15,7 +15,7 @@ Electrical and Electronics Engineering Undergrad at College of Engineering Triva
 
 <table align="center">
   <tr>
-<td> <a href="https://hari2menon1234@gmail.com"><img align="center" width="25px" src="https://cdn.svarun.dev/social/gmail.svg"/></a></td>
+<td> <a href="mailto:hari2menon1234@gmail.com"><img align="center" width="25px" src="https://cdn.svarun.dev/social/gmail.svg"/></a></td>
 <td> <a href="https://www.linkedin.com/in/kharishankar/"><img align="center" width="25px" src="https://cdn.svarun.dev/social/linkedin.svg"/></a></td>
   </tr>
 </table>
