@@ -1,4 +1,4 @@
-## Hey there !  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">
+## Hey there !  <img src="https://giphy.com/embed/MEFVcuRIoVETUMYZEe" width="20px">
 
 I'm Hari and I like to create stuff :)
 
