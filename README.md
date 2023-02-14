@@ -2,7 +2,7 @@
 
 I'm Hari and I like to create stuff :)
 
-Electrical and Electronics Engineering Undergrad at College of Engineering Trivandrum
+Electrical and Electronics Engineering grad at College of Engineering Trivandrum
 
 ## My Stats
 ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishnkr&show_icons=true&theme=calm&layout=compact)
