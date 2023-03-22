@@ -15,9 +15,9 @@ Electrical and Electronics Engineering graduate from College of Engineering Triv
 
 ## Get In Touch
 
- <a href="mailto:hari2menon1234@gmail.com"><img align="center" width="1%" src="/icons/gmail.png"/></a>
-<a href="https://www.linkedin.com/in/kharishankar/"><img align="center" width="1%" src="/icons/linkedin.png"/></a></td>
-<a href="https://www.reddit.com/user/harishnkr/"><img align="center" width="1%" src="/icons/reddit.png"/></a></td>
+ <a href="mailto:hari2menon1234@gmail.com"><img align="center" width="3%" src="/icons/gmail.png"/></a>
+<a href="https://www.linkedin.com/in/kharishankar/"><img align="center" width="3%" src="/icons/linkedin.png"/></a></td>
+<a href="https://www.reddit.com/user/harishnkr/"><img align="center" width="3%" src="/icons/reddit.png"/></a></td>
 
 <!---- credits
 
