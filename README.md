@@ -15,6 +15,14 @@ Electrical and Electronics Engineering graduate from College of Engineering Triv
 
 ## Get In Touch
 
- <a href="mailto:hari2menon1234@gmail.com"><img align="center" width="25px" src="https://www.flaticon.com/free-icons/gmail"/></a>
-<a href="https://www.linkedin.com/in/kharishankar/"><img align="center" width="25px" src="https://www.flaticon.com/free-icons/linkedin"/></a></td>
-<a href="https://www.reddit.com/user/harishnkr/"><img align="center" width="25px" src="https://www.flaticon.com/free-icons/reddit"/></a></td>
+ <a href="mailto:hari2menon1234@gmail.com"><img align="center" width="25px" src="/icons/gmail.png"/></a>
+<a href="https://www.linkedin.com/in/kharishankar/"><img align="center" width="25px" src="/icons/linkedin.png"/></a></td>
+<a href="https://www.reddit.com/user/harishnkr/"><img align="center" width="25px" src="/icons/reddit.png"/></a></td>
+
+<!---- credits
+
+<a href="https://www.flaticon.com/free-icons/gmail" title="gmail icons">Gmail icons created by Pixel perfect - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/reddit" title="reddit icons">Reddit icons created by Md Tanvirul Haque - Flaticon</a>
+>
+
