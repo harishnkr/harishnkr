@@ -16,13 +16,14 @@ Electrical and Electronics Engineering graduate from College of Engineering Triv
 ## Get In Touch
 
  <a href="mailto:hari2menon1234@gmail.com"><img align="center" width="4%" src="/icons/gmail.png"/></a>
-<a href="https://www.linkedin.com/in/kharishankar/"><img align="center" width="4%" src="/icons/linkedin.png"/></a></td>
-<a href="https://www.reddit.com/user/harishnkr/"><img align="center" width="4%" src="/icons/reddit.png"/></a></td>
+<a href="https://www.linkedin.com/in/kharishankar/"><img align="center" width="4%" src="/icons/linkedin.png"/></a>
+<a href="https://www.reddit.com/user/harishnkr/"><img align="center" width="4%" src="/icons/reddit.png"/></a>
 
 <!---- credits
 
 <a href="https://www.flaticon.com/free-icons/gmail" title="gmail icons">Gmail icons created by Pixel perfect - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/reddit" title="reddit icons">Reddit icons created by Md Tanvirul Haque - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/twitter" title="twitter icons">Twitter icons created by Pixel perfect - Flaticon</a>
 >
 
