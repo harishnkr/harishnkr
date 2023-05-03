@@ -4,8 +4,6 @@ I'm Hari and I like to create stuff :)
 
 Electrical and Electronics Engineering graduate from College of Engineering Trivandrum
 
-![](https://visitor-badge.glitch.me/badge?page_id=harishnkr.harishnkr)
-
 ## My Stats
 ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishnkr&show_icons=true&theme=calm&layout=compact)
 
