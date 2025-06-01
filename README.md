@@ -2,6 +2,8 @@
 
 I'm Hari and I like to create stuff :)
 
+I am currently pursuing my PhD in IT/Systems from IIM Lucknow.
+
 Electrical and Electronics Engineering graduate from College of Engineering Trivandrum
 
 ## Stats
